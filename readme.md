@@ -24,15 +24,15 @@ Users should be able to:
 
 Mobile
 
-![](./screenshot.jpg)
+![](./mobile.png)
 
 Desktop
 
-![](./screenshot.jpg)
+![](./desktop.png)
 
 ### Links
 
--   Live Site URL: [Four card feature section](https://your-live-site-url.com)
+-   Live Site URL: [Four card feature section](https://magical-kelpie-2a720b.netlify.app/)
 
 ## My process
 
